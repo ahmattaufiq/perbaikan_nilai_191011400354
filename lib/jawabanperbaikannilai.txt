@@ -1,0 +1,9 @@
+Aplikasi native adalah aplikasi yang dibangun dengan bahasa pemrograman yang spesifik untuk platform tertentu. Contoh populernya yakni penggunaan bahasa pemrograman Objective-C atau Swift untuk platform iOS (Apple). Adapun platform Android yang menggunakan bahasa pemrograman Java.
+Aplikasi hybrid adalah aplikasi web yang ditransformasikan menjadi kode native pada platform seperti iOS atau Android. Aplikasi hybrid biasanya menggunakan browser untuk mengijinkan aplikasi web mengakses berbagai fitur di device mobile seperti Push Notification, Contacts, atau Offline Data Storage. 
+2. . State management library adalah library yang digunakan untuk mengelola state pada suatu aplikasi JavaScript. .Dalam Reactive Framework seperti Flutter, kamu bisa membuat UI sebagai return value function(state) => UI dari sebuah function dimana function tersebut dipanggil dengan 1 argumen yaitu adalah state. Jadi, State adalah sebuah data yang bisa berubah dengan / seperti lifecycle didalam aplikasi kamu.
+
+Banyak data yang bisa kamu simpan dialam 1 widget saja, atau dikenal dengan local state. Lalu ada juga yaitu Global State, ini adalah state yang bisa dipakai / berbagi dengan Widget yang lain, sehingga penggunaannya Global.
+
+Didalam Flutter, pastinya kita sudah tidak asing lagi bagi yang namanya Stateful Widget dan Stateless Widget. Jenis jenis Widget tersebut terbagi karena sesuai fungsinya, yaitu Stateless Widget yang berisi Widget statis, dan Stateful Widget yang mempunyai kemampuan untuk meng-update data atau yang dikenal dengan State dengan cara setState
+
+
